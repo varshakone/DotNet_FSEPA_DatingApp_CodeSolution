@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>netcoreapp2.2</TargetFramework>
+		<AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.AspNetCore.App" />
+		<PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+		<PackageReference Include="Microsoft.Extensions.Options" Version="2.2.0" />
+		<PackageReference Include="MongoDB.Driver" Version="2.10.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Reference Include="DatingApp.BusinessLayer">
+	    <HintPath>..\DatingApp.BusinessLayer\bin\Debug\netcoreapp2.2\DatingApp.BusinessLayer.dll</HintPath>
+	  </Reference>
+	  <Reference Include="DatingApp.DataLayer">
+	    <HintPath>..\DatingApp.DataLayer\bin\Debug\netcoreapp2.2\DatingApp.DataLayer.dll</HintPath>
+	  </Reference>
+	  <Reference Include="DatingApp.Entities">
+	    <HintPath>..\DatingApp.Entities\bin\Debug\netcoreapp2.2\DatingApp.Entities.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
+</Project>

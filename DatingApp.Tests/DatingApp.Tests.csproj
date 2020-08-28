@@ -1,0 +1,45 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="xunit.runner.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="xunit.runner.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="2.2.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.5.0" />
+    <PackageReference Include="MongoDB.Driver" Version="2.10.0" />
+    <PackageReference Include="Moq" Version="4.14.5" />
+    <PackageReference Include="xunit" Version="2.4.0" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.4.0" />
+    <PackageReference Include="coverlet.collector" Version="1.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="DatingApp">
+      <HintPath>..\DatingApp\bin\Debug\netcoreapp2.2\DatingApp.dll</HintPath>
+    </Reference>
+    <Reference Include="DatingApp.BusinessLayer">
+      <HintPath>..\DatingApp.BusinessLayer\bin\Debug\netcoreapp2.2\DatingApp.BusinessLayer.dll</HintPath>
+    </Reference>
+    <Reference Include="DatingApp.DataLayer">
+      <HintPath>..\DatingApp.DataLayer\bin\Debug\netcoreapp2.2\DatingApp.DataLayer.dll</HintPath>
+    </Reference>
+    <Reference Include="DatingApp.Entities">
+      <HintPath>..\DatingApp.Entities\bin\Debug\netcoreapp2.2\DatingApp.Entities.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatingApp", "DatingApp.csproj", "{6D01D344-350F-42E2-98A6-97462C0F734D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatingApp.Entities", "..\DatingApp.Entities\DatingApp.Entities.csproj", "{B754937C-6AAB-4643-816D-7402C96EBAF2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatingApp.DataLayer", "..\DatingApp.DataLayer\DatingApp.DataLayer.csproj", "{B27F7B33-30B9-49D2-B2C7-4817701B38F5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatingApp.BusinessLayer", "..\DatingApp.BusinessLayer\DatingApp.BusinessLayer.csproj", "{45859633-4517-495A-B98F-91371C71F4B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatingApp.Tests", "..\DatingApp.Tests\DatingApp.Tests.csproj", "{8D32C87C-3D59-4E6F-8885-61EC4FFE1B18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D01D344-350F-42E2-98A6-97462C0F734D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D01D344-350F-42E2-98A6-97462C0F734D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D01D344-350F-42E2-98A6-97462C0F734D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D01D344-350F-42E2-98A6-97462C0F734D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B754937C-6AAB-4643-816D-7402C96EBAF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B754937C-6AAB-4643-816D-7402C96EBAF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B754937C-6AAB-4643-816D-7402C96EBAF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B754937C-6AAB-4643-816D-7402C96EBAF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B27F7B33-30B9-49D2-B2C7-4817701B38F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B27F7B33-30B9-49D2-B2C7-4817701B38F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B27F7B33-30B9-49D2-B2C7-4817701B38F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B27F7B33-30B9-49D2-B2C7-4817701B38F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45859633-4517-495A-B98F-91371C71F4B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45859633-4517-495A-B98F-91371C71F4B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45859633-4517-495A-B98F-91371C71F4B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45859633-4517-495A-B98F-91371C71F4B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D32C87C-3D59-4E6F-8885-61EC4FFE1B18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D32C87C-3D59-4E6F-8885-61EC4FFE1B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D32C87C-3D59-4E6F-8885-61EC4FFE1B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D32C87C-3D59-4E6F-8885-61EC4FFE1B18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4C46AC7-495E-4B44-A178-6B4E2FF36C0C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.BusinessLayer\bin\Debug\netcoreapp3.1\DatingApp.BusinessLayer.deps.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.BusinessLayer\bin\Debug\netcoreapp3.1\DatingApp.BusinessLayer.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.BusinessLayer\obj\Debug\netcoreapp3.1\DatingApp.BusinessLayer.csprojAssemblyReference.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.BusinessLayer\obj\Debug\netcoreapp3.1\DatingApp.BusinessLayer.AssemblyInfoInputs.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.BusinessLayer\obj\Debug\netcoreapp3.1\DatingApp.BusinessLayer.AssemblyInfo.cs
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.BusinessLayer\bin\Debug\netcoreapp3.1\DatingApp.DataLayer.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.BusinessLayer\bin\Debug\netcoreapp3.1\DatingApp.Entities.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.BusinessLayer\bin\Debug\netcoreapp3.1\DatingApp.DataLayer.pdb
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.BusinessLayer\bin\Debug\netcoreapp3.1\DatingApp.Entities.pdb
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.BusinessLayer\obj\Debug\netcoreapp3.1\DatingApp.BusinessLayer.csproj.CopyComplete
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.BusinessLayer\obj\Debug\netcoreapp3.1\DatingApp.BusinessLayer.csproj.CoreCompileInputs.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.BusinessLayer\bin\Debug\netcoreapp3.1\DatingApp.BusinessLayer.pdb
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.BusinessLayer\obj\Debug\netcoreapp3.1\DatingApp.BusinessLayer.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.BusinessLayer\obj\Debug\netcoreapp3.1\DatingApp.BusinessLayer.pdb

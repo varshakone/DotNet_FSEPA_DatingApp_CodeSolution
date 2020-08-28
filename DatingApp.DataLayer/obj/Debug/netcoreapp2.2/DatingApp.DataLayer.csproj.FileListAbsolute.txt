@@ -1,0 +1,12 @@
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.DataLayer\bin\Debug\netcoreapp2.2\DatingApp.DataLayer.deps.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.DataLayer\bin\Debug\netcoreapp2.2\DatingApp.DataLayer.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.DataLayer\bin\Debug\netcoreapp2.2\DatingApp.DataLayer.pdb
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.DataLayer\obj\Debug\netcoreapp2.2\DatingApp.DataLayer.csprojAssemblyReference.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.DataLayer\obj\Debug\netcoreapp2.2\DatingApp.DataLayer.AssemblyInfoInputs.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.DataLayer\obj\Debug\netcoreapp2.2\DatingApp.DataLayer.AssemblyInfo.cs
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.DataLayer\obj\Debug\netcoreapp2.2\DatingApp.DataLayer.csproj.CoreCompileInputs.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.DataLayer\obj\Debug\netcoreapp2.2\DatingApp.DataLayer.csproj.CopyComplete
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.DataLayer\obj\Debug\netcoreapp2.2\DatingApp.DataLayer.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.DataLayer\obj\Debug\netcoreapp2.2\DatingApp.DataLayer.pdb
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.DataLayer\bin\Debug\netcoreapp2.2\DatingApp.Entities.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.DataLayer\bin\Debug\netcoreapp2.2\DatingApp.Entities.pdb

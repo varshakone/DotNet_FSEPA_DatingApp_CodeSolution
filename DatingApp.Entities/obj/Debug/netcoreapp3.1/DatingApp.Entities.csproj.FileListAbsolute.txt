@@ -1,0 +1,9 @@
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.Entities\bin\Debug\netcoreapp3.1\DatingApp.Entities.deps.json
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.Entities\bin\Debug\netcoreapp3.1\DatingApp.Entities.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.Entities\obj\Debug\netcoreapp3.1\DatingApp.Entities.csprojAssemblyReference.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.Entities\obj\Debug\netcoreapp3.1\DatingApp.Entities.AssemblyInfoInputs.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.Entities\obj\Debug\netcoreapp3.1\DatingApp.Entities.AssemblyInfo.cs
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.Entities\bin\Debug\netcoreapp3.1\DatingApp.Entities.pdb
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.Entities\obj\Debug\netcoreapp3.1\DatingApp.Entities.csproj.CoreCompileInputs.cache
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.Entities\obj\Debug\netcoreapp3.1\DatingApp.Entities.dll
+F:\f\varsha_Kone\IIHT\CaseStudy\Revised\FSEPA\CodeSolution\DatingApp\DatingApp.Entities\obj\Debug\netcoreapp3.1\DatingApp.Entities.pdb
